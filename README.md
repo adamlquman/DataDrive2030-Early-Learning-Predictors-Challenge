@@ -18,7 +18,8 @@
  - This solution will get me first place 
 
   </h5> 
-![Screenshot from 2023-05-06 22-34-41](https://user-images.githubusercontent.com/97489757/236645798-a97c81d0-7c87-4f03-a6bd-67a5aeb58f23.png)
+  <img src="https://user-images.githubusercontent.com/97489757/236645798-a97c81d0-7c87-4f03-a6bd-67a5aeb58f23.png">
+<!-- ![Screenshot from 2023-05-06 22-34-41](https://user-images.githubusercontent.com/97489757/236645798-a97c81d0-7c87-4f03-a6bd-67a5aeb58f23.png) -->
 <h1><b>This comptetion</b></h1> 
 About data from multiple programmes and projects who used the ELOM tools were collated, spanning from 2019-2022. You can view the different data sources and collection methods in a PDF in the download section.
 
